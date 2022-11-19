@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Agung Cantona**.
+I'am **Agung Cantona**.
 
-Saya seorang **Website Developer** di [Dicoding](https://www.dicoding.com/).
+Im a **Website Developer**.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/agung-cantona-8a4861225/)ku ya.
+Follow my [Linkedin](https://www.linkedin.com/in/agung-cantona-8a4861225/).
 
 ### 🛠 &nbsp; Tech Stack :
 - 🌐 &nbsp;
