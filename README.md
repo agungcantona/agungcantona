@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'am **Agung Cantona**.
+I'm **Agung Cantona**.
 
 Im a **Website Developer**.
 
