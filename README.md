@@ -15,6 +15,7 @@ Follow my [Linkedin](https://www.linkedin.com/in/agung-cantona-8a4861225/).
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=WordPress)
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   
 
 - ⚙️ &nbsp;
